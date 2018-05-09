@@ -1,0 +1,12 @@
+/Volumes/BOOTCAMP/project/aspnet_core/SignalRTest/bin/Debug/netcoreapp2.0/app.db
+/Volumes/BOOTCAMP/project/aspnet_core/SignalRTest/bin/Debug/netcoreapp2.0/SignalRTest.deps.json
+/Volumes/BOOTCAMP/project/aspnet_core/SignalRTest/bin/Debug/netcoreapp2.0/SignalRTest.runtimeconfig.json
+/Volumes/BOOTCAMP/project/aspnet_core/SignalRTest/bin/Debug/netcoreapp2.0/SignalRTest.runtimeconfig.dev.json
+/Volumes/BOOTCAMP/project/aspnet_core/SignalRTest/bin/Debug/netcoreapp2.0/SignalRTest.dll
+/Volumes/BOOTCAMP/project/aspnet_core/SignalRTest/bin/Debug/netcoreapp2.0/SignalRTest.pdb
+/Volumes/BOOTCAMP/project/aspnet_core/SignalRTest/obj/Debug/netcoreapp2.0/SignalRTest.csproj.CoreCompileInputs.cache
+/Volumes/BOOTCAMP/project/aspnet_core/SignalRTest/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/Volumes/BOOTCAMP/project/aspnet_core/SignalRTest/obj/Debug/netcoreapp2.0/SignalRTest.AssemblyInfoInputs.cache
+/Volumes/BOOTCAMP/project/aspnet_core/SignalRTest/obj/Debug/netcoreapp2.0/SignalRTest.AssemblyInfo.cs
+/Volumes/BOOTCAMP/project/aspnet_core/SignalRTest/obj/Debug/netcoreapp2.0/SignalRTest.dll
+/Volumes/BOOTCAMP/project/aspnet_core/SignalRTest/obj/Debug/netcoreapp2.0/SignalRTest.pdb

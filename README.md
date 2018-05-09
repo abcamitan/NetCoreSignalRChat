@@ -202,7 +202,7 @@ Under the "using" section add below code:
 using NetCoreSignalRChat.Hubs;
 ~~~~~~~~
 
-Find the ConfigureServices method, then add the codes below:
+Find the `ConfigureServices` method, then add the codes below:
 
 ~~~~~~~~
 services.AddCors(options => options.AddPolicy("CorsPolicy", 
@@ -216,7 +216,7 @@ builder =>
 services.AddSignalR();
 ~~~~~~~~
 
-Find the Configure method, then add the following code:
+Find the `Configure` method, then add the following code:
 
 ~~~~~~~~
 app.UseCookiePolicy();
